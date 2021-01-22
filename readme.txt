@@ -1,4 +1,4 @@
-git is a free ersion control system
+git is a free eversion control system
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 not fast forward
